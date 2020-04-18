@@ -14,6 +14,7 @@ user_guide_src/build/*
 user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
 user_guide_src/cilexer/pycilexer.egg-info/*
+user_guide/
 
 #codeigniter 3
 application/logs/*
@@ -59,5 +60,10 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+### Other Patch ###
+mpdf/
+uploads/
 
 # End of https://www.gitignore.io/api/windows,codeigniter,visualstudiocode
